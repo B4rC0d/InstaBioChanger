@@ -1,4 +1,4 @@
-# InstaBioChenger
+# InstaBioChanger
 
 With this script, you can put the hour and texts you like in your Instagram biography.
 
@@ -8,11 +8,11 @@ With this script, you can put the hour and texts you like in your Instagram biog
 
 Instructions on how to install *RemaxDos*
 ```
-git clone https://github.com/10rd-d4rk/InstaBioChenger.git
+git clone https://github.com/10rd-d4rk/InstaBioChanger.git
 ```
 Go to the directory
 ```
-cd InstaBioChenger
+cd InstaBioChanger
 ```
 See Help
 ```
