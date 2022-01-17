@@ -6,7 +6,7 @@ With this script, you can put the hour and texts you like in your Instagram biog
 
 # Installation
 
-Instructions on how to install *RemaxDos*
+Instructions on how to install *InstaBioChanger*
 ```
 git clone https://github.com/10rd-d4rk/InstaBioChanger.git
 ```
