@@ -16,7 +16,7 @@ cd InstaBioChenger
 ```
 See Help
 ```
-python3 InstaBioVhanger.py --help
+python3 InstaBioChanger.py --help
 ```
 -----------------------------------------------
 |  Switch                | Description        |
