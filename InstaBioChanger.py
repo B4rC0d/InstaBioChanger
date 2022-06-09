@@ -99,10 +99,10 @@ def chenger(biography):
 
 # ================================================ #
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Find the exploit you want faster with me :) ")
-    parser.add_argument("--btimer", help="See the latest exploits",action="store_true")
-    parser.add_argument("--btext", help="See the tool version",action="store_true")
-    parser.add_argument('-t','--time', help='Search by tag')
+    parser = argparse.ArgumentParser(description="Instagram biography changer :) ")
+    parser.add_argument("--btimer", help="Put the clock in the biography",action="store_true")
+    parser.add_argument("--btext", help="Put several texts in the biography",action="store_true")
+    parser.add_argument('-t','--time', help='Select the time interval for changing biographical texts')
 
     
     args = parser.parse_args()
