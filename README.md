@@ -20,7 +20,7 @@ See Help
 python3 InstaBioChanger.py --help
 ```
 -----------------------------------------------
-|  Switch                | Description        |
+|       Description      |      Switch        |
 |------------------------|--------------------|
 |Time to change biography|`-t or --time`      |  
 |Hours in Biography      |`--btimer`          |   
